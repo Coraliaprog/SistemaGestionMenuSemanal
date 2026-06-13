@@ -1,4 +1,4 @@
-﻿namespace SistemaGestionMenuSemanal.API.Models.Entities
+namespace SistemaGestionMenuSemanal.API.Models.Entities
 {
     public class Comida
     {
